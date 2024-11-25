@@ -1,0 +1,47 @@
+{
+    "SWIR": {
+        "Quantum Efficiency": 0.7,
+        "Dark Current Parameters": {
+            "I0": 1e-09,
+            "Eg": 0.23,
+            "k": 1.38e-23
+        },
+        "Shot Noise Parameters": {
+            "q": 1.6e-19
+        },
+        "Thermal Noise Parameters": {
+            "k": 1.38e-23,
+            "resistance": 50
+        }
+    },
+    "MWIR": {
+        "Quantum Efficiency": 0.8,
+        "Dark Current Parameters": {
+            "I0": 5e-09,
+            "Eg": 0.1,
+            "k": 1.38e-23
+        },
+        "Shot Noise Parameters": {
+            "q": 1.6e-19
+        },
+        "Thermal Noise Parameters": {
+            "k": 1.38e-23,
+            "resistance": 60
+        }
+    },
+    "LWIR": {
+        "Quantum Efficiency": 0.2,
+        "Dark Current Parameters": {
+            "I0": 1e-06,
+            "Eg": 0.05,
+            "k": 1.38e-23
+        },
+        "Shot Noise Parameters": {
+            "q": 1.6e-19
+        },
+        "Thermal Noise Parameters": {
+            "k": 1.38e-23,
+            "resistance": 100
+        }
+    }
+}

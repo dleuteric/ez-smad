@@ -1,0 +1,154 @@
+{
+    "180": {
+        "SWIR - Cross-Section 0.25 m\u00b2 - SNR 5": [
+            0.027530831844853443
+        ],
+        "SWIR - Cross-Section 1.0 m\u00b2 - SNR 5": [
+            0.055061663689706886
+        ],
+        "SWIR - Cross-Section 0.25 m\u00b2 - SNR 10": [
+            0.019467237889202415
+        ],
+        "SWIR - Cross-Section 1.0 m\u00b2 - SNR 10": [
+            0.03893447577840483
+        ],
+        "MWIR - Cross-Section 0.25 m\u00b2 - SNR 5": [
+            30188.1637100975
+        ],
+        "MWIR - Cross-Section 1.0 m\u00b2 - SNR 5": [
+            60376.327420195
+        ],
+        "MWIR - Cross-Section 0.25 m\u00b2 - SNR 10": [
+            21346.255270979585
+        ],
+        "MWIR - Cross-Section 1.0 m\u00b2 - SNR 10": [
+            42692.51054195917
+        ],
+        "LWIR - Cross-Section 0.25 m\u00b2 - SNR 5": [
+            614931.9277825722
+        ],
+        "LWIR - Cross-Section 1.0 m\u00b2 - SNR 5": [
+            1229863.8555651444
+        ],
+        "LWIR - Cross-Section 0.25 m\u00b2 - SNR 10": [
+            434822.5361031732
+        ],
+        "LWIR - Cross-Section 1.0 m\u00b2 - SNR 10": [
+            869645.0722063464
+        ]
+    },
+    "270": {
+        "SWIR - Cross-Section 0.25 m\u00b2 - SNR 5": [
+            315.10474144524085
+        ],
+        "SWIR - Cross-Section 1.0 m\u00b2 - SNR 5": [
+            630.2094828904817
+        ],
+        "SWIR - Cross-Section 0.25 m\u00b2 - SNR 10": [
+            222.81269945996354
+        ],
+        "SWIR - Cross-Section 1.0 m\u00b2 - SNR 10": [
+            445.6253989199271
+        ],
+        "MWIR - Cross-Section 0.25 m\u00b2 - SNR 5": [
+            1488052.2134229757
+        ],
+        "MWIR - Cross-Section 1.0 m\u00b2 - SNR 5": [
+            2976104.4268459515
+        ],
+        "MWIR - Cross-Section 0.25 m\u00b2 - SNR 10": [
+            1052211.810871038
+        ],
+        "MWIR - Cross-Section 1.0 m\u00b2 - SNR 10": [
+            2104423.621742076
+        ],
+        "LWIR - Cross-Section 0.25 m\u00b2 - SNR 5": [
+            6302343.944855537
+        ],
+        "LWIR - Cross-Section 1.0 m\u00b2 - SNR 5": [
+            12604687.889711075
+        ],
+        "LWIR - Cross-Section 0.25 m\u00b2 - SNR 10": [
+            4456430.140777327
+        ],
+        "LWIR - Cross-Section 1.0 m\u00b2 - SNR 10": [
+            8912860.281554654
+        ]
+    },
+    "300": {
+        "SWIR - Cross-Section 0.25 m\u00b2 - SNR 5": [
+            2109.5042050733305
+        ],
+        "SWIR - Cross-Section 1.0 m\u00b2 - SNR 5": [
+            4219.008410146661
+        ],
+        "SWIR - Cross-Section 0.25 m\u00b2 - SNR 10": [
+            1491.6447283488894
+        ],
+        "SWIR - Cross-Section 1.0 m\u00b2 - SNR 10": [
+            2983.289456697779
+        ],
+        "MWIR - Cross-Section 0.25 m\u00b2 - SNR 5": [
+            3397676.4491439117
+        ],
+        "MWIR - Cross-Section 1.0 m\u00b2 - SNR 5": [
+            6795352.898287823
+        ],
+        "MWIR - Cross-Section 0.25 m\u00b2 - SNR 10": [
+            2402520.0574674895
+        ],
+        "MWIR - Cross-Section 1.0 m\u00b2 - SNR 10": [
+            4805040.114934979
+        ],
+        "LWIR - Cross-Section 0.25 m\u00b2 - SNR 5": [
+            10278715.141370183
+        ],
+        "LWIR - Cross-Section 1.0 m\u00b2 - SNR 5": [
+            20557430.282740366
+        ],
+        "LWIR - Cross-Section 0.25 m\u00b2 - SNR 10": [
+            7268149.178347698
+        ],
+        "LWIR - Cross-Section 1.0 m\u00b2 - SNR 10": [
+            14536298.356695397
+        ]
+    },
+    "1600": {
+        "SWIR - Cross-Section 0.25 m\u00b2 - SNR 5": [
+            11528306483.99124
+        ],
+        "SWIR - Cross-Section 1.0 m\u00b2 - SNR 5": [
+            23056612967.98248
+        ],
+        "SWIR - Cross-Section 0.25 m\u00b2 - SNR 10": [
+            8151743690.427051
+        ],
+        "SWIR - Cross-Section 1.0 m\u00b2 - SNR 10": [
+            16303487380.854101
+        ],
+        "MWIR - Cross-Section 0.25 m\u00b2 - SNR 5": [
+            6780868383.390082
+        ],
+        "MWIR - Cross-Section 1.0 m\u00b2 - SNR 5": [
+            13561736766.780165
+        ],
+        "MWIR - Cross-Section 0.25 m\u00b2 - SNR 10": [
+            4794798016.228589
+        ],
+        "MWIR - Cross-Section 1.0 m\u00b2 - SNR 10": [
+            9589596032.457178
+        ],
+        "LWIR - Cross-Section 0.25 m\u00b2 - SNR 5": [
+            744031514.2076495
+        ],
+        "LWIR - Cross-Section 1.0 m\u00b2 - SNR 5": [
+            1488063028.415299
+        ],
+        "LWIR - Cross-Section 0.25 m\u00b2 - SNR 10": [
+            526109729.112724
+        ],
+        "LWIR - Cross-Section 1.0 m\u00b2 - SNR 10": [
+            1052219458.225448
+        ]
+    }
+}
